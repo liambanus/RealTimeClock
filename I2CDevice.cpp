@@ -1,8 +1,7 @@
 /*
  * I2CDevice.cpp
  *
- *  Created on: 29 Feb 2020
- *      Author: liam
+
  */
 /*
  * I2C.cpp  Created on: 17 May 2014
